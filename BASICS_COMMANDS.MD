@@ -166,6 +166,21 @@ Move and rename the file at same time
 $ mv names.txt ../newName.txt
 ```
 
+# remove the directory - rm [remove-Item]
+- remove the file permeanently - not even in the bin 
+
+- rm
+
+```bash
+$ rm demox.txt
+```
+
+# cp - copying the directory
+
+```bash
+$ cp -R test directory
+```
+
 
 
 
