@@ -149,13 +149,26 @@ touch file_name   # creates a file
 Copy command
 ```bash
 cp file.txt copy_file.txt
+```
+
+FOR RENAME THE FILE
+```bash
+$ mv demo.txt demo4.txt
+```
+
+# mv - command moving files
+```bash
 $ mv file.txt directory
+```
+Move and rename the file at same time
+
+```bash
+$ mv names.txt ../newName.txt
 ```
 
 
 
 
-# mv - command moving files
 
 
 
