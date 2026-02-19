@@ -22,3 +22,11 @@ ls -r   -> returns all subfolders files
 
 cat - concatinate 
 used to all the contents which are aval in the file 
+
+too create a file with some content 
+- $ cat > file.txt
+- merging with two file - $ cat demo.txt file.txt > merge.txt
+
+
+
+
