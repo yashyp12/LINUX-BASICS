@@ -149,6 +149,14 @@ touch file_name   # creates a file
 Copy command
 ```bash
 cp file.txt copy_file.txt
+$ mv file.txt directory
 ```
+
+
+
+
+# mv - command moving files
+
+
 
 
