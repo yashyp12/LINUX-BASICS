@@ -27,6 +27,11 @@ too create a file with some content
 - $ cat > file.txt
 - merging with two file - $ cat demo.txt file.txt > merge.txt
 
+-echo ->Write-Output   prints whatever we add 
+- $ echo "hlllo new " > file1.txt
+
+# man command 
+- used for getting more info about the command 
 
 
 
