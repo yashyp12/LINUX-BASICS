@@ -181,6 +181,16 @@ $ rm demox.txt
 $ cp -R test directory
 ```
 
+# rm - remove files 
+```bash
+$ rm dir/demol.
+```
+
+- if we want to delete folder / directory
+
+```bash
+$ rm -R dir
+```
 
 
 
