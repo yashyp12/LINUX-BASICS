@@ -21,4 +21,4 @@ cd - change directory
 ls -r   -> returns all subfolders files 
 
 cat - concatinate 
-
+used to all the contents which are aval in the file 
