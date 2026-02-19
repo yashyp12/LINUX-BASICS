@@ -192,6 +192,10 @@ $ rm dir/demol.
 $ rm -R dir
 ```
 
+- f flag is a force flag
+
+# sudo -> SUPER USER DO
+
 
 
 
