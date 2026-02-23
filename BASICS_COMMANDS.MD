@@ -309,8 +309,14 @@ ls -l total.txt
 //as above for 3 people it has permission readwrite, read (group) , read (others)
 
 
+// we can change the permissions in 2 ways
+1 - alpha numeric char - 
 
+```bash 
+chmod u=rwx,g=rx,o=r total.txt
+```
 
+2 - 
 
 
 
