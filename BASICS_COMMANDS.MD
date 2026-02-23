@@ -300,6 +300,19 @@ find .size +1k  // returns the file more than 1kb
 // empty files in current directory
 find . -empty 
 
+# File Permission - read write execute
+
+```bash
+ls -l total.txt
+```
+// op -> -rw-r--r-- 1 patil 197609 69 Feb 23 16:54 total.txt
+//as above for 3 people it has permission readwrite, read (group) , read (others)
+
+
+
+
+
+
 
 
 
