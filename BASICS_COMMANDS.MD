@@ -249,10 +249,34 @@ $ diff file1.txt newFile11.txt
 - locate -> used to find the files ending with the .txt
 locate "*.txt"
 
+
+
+# find 
+- shows the hidden files as well 
+- wherever the file is there it shows us 
+
+```bash
+find . - find in the current directory
+find ..  -- finds in the parent directory  
+
 - for git bash
 ```bash
 find . -name "*.txt"
 ```
+//if we just search for the fileName it wil give us the location of that file
+```bash
+find . -name "*.txt"
+```
+
+// if we wanted to find the directory not files
+```bash
+find . -type -d  //type should be a folder or directory
+find . -type -f  // return only the files 
+
+
+
+
+
 
 
 
