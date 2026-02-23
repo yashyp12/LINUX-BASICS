@@ -235,8 +235,15 @@ $ tail -n 2 total.txt //shows the last 2 lines from the file
 
 diff- used to compare the files line by line 
 
+```bash
+$ diff file1.txt newFile11.txt
+```
 
+- we use this command for the 
+- it compare the contents of the both the file line by line, it will output the lines that are not match
 
+- why we need ? 
+- we make some alterations without rewriting the source code if we want to see the differnces we can use this commands
 
 
 
