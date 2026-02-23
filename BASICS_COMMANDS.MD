@@ -246,6 +246,14 @@ $ diff file1.txt newFile11.txt
 - we make some alterations without rewriting the source code if we want to see the differnces we can use this commands
 
 
+- locate -> used to find the files ending with the .txt
+locate "*.txt"
+
+- for git bash
+```bash
+find . -name "*.txt"
+```
+
 
 
 
