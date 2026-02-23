@@ -205,6 +205,21 @@ sudo echo "Hello wrold"
 ```bash
 df  -showing in kb 
 ```
+```bash
+df  -m -showing in mb 
+```
+
+```bash
+df  -h -showing in human readable format
+```
+
+```bash
+du   -shows the disk usage statistics
+```
+
+
+
+
 
 
 
