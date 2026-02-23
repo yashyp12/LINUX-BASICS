@@ -196,6 +196,18 @@ $ rm -R dir
 
 # sudo -> SUPER USER DO
 
+- sudo commands requires administration permissions 
+
+```bash
+sudo echo "Hello wrold"
+```
+-checek disc space usage -- displayes the free disc space
+```bash
+df  -showing in kb 
+```
+
+
+
 
 
 
