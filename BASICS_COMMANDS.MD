@@ -1,5 +1,5 @@
 # Linux Basic Commands
-
+doc - https://docs.rockylinux.org/10/books/admin_guide/03-commands/
 ## Table of Contents
 - [Environment Variables](#environment-variables)
 - [Directory Navigation](#directory-navigation)
