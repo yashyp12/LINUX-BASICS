@@ -270,8 +270,20 @@ find . -name "*.txt"
 
 // if we wanted to find the directory not files
 ```bash
-find . -type -d  //type should be a folder or directory
-find . -type -f  // return only the files 
+find . -type d  //type should be a folder or directory
+find . -type f  // return only the files 
+
+// directory type should be file and name should be like 
+```bash
+find . -type f -name "total.txt"
+
+
+// return the files that start with new
+```bash
+find . -type f -name "new*"
+find . -type f -name "*.txt"
+```
+
 
 
 
