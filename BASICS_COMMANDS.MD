@@ -281,8 +281,13 @@ find . -type f -name "total.txt"
 // return the files that start with new
 ```bash
 find . -type f -name "new*"
-find . -type f -name "*.txt"
+find . -type f -name "*.txt" 
+find . -type f -iname "*.txt" // to avoid case sensitive
+find , type f -mmin -20  // all the files which are modifed 20 min ago show me that 
+find , type f -mmin +20  // all the files which are modifed 20 min aafter o show me that 
 ```
+
+
 
 
 
