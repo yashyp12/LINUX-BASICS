@@ -217,6 +217,24 @@ df  -h -showing in human readable format
 du   -shows the disk usage statistics
 ```
 
+head - used to view the first liens of the file  by def its 10
+```bash
+head total.txt 
+
+head -n 4 total.txt // this will how only 4 lines only
+```
+
+
+tail  - sed to shows the last lines in the files 
+
+```bash
+tail total.txt
+$ tail -n 2 total.txt //shows the last 2 lines from the file
+```
+
+
+diff- used to compare the files line by line 
+
 
 
 
