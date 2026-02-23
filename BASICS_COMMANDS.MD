@@ -287,6 +287,18 @@ find , type f -mmin -20  // all the files which are modifed 20 min ago show me t
 find , type f -mmin +20  // all the files which are modifed 20 min aafter o show me that 
 ```
 
+// find the files which are only current directory not in subdirectory
+
+```bash
+find . -type f -maxdepth 1 //will go till 1 folder only
+```
+
+// searching by size
+find .size +1k  // returns the file more than 1kb
+
+
+// empty files in current directory
+find . -empty 
 
 
 
